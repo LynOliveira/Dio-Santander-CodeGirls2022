@@ -12,7 +12,7 @@ O Santander Code Girls tem como objetivo de empregar, capacitar e transformar mu
 
 #### Módulo II - Começando a Programar em Java 
 
-- [x] [Dominando IDEs Java](https://github.com/LynOliveira/Dio-codegirls-dominando-ides-eclipse)
+- [x] Dominando IDEs Java: [Eclipse](https://github.com/LynOliveira/Dio-codegirls-dominando-ides-eclipse) | [IntelliJ](https://github.com/LynOliveira/Dio-codegirls-dominando-ides-IntelliJ) 
 - [ ] Variáveis, Tipos de Dados e Operadores Matemáticos em Java 
 - [ ] Entendendo Métodos Java
 - [ ] Lógica Condicional e Controle de Fluxos em Java
